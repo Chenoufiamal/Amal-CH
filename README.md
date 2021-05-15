@@ -1,2 +1,1 @@
-# Amal-CH
-Mini project CV
+# Mini project CV
